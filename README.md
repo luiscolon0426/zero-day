@@ -1,0 +1,3 @@
+try #6, patience is key. as i wrote before, this will be my "current status". ill be writing and updating my projects, task, ect. later on, probably i will delete this file, ut yes, i dont know what else to type here, it says to MARKDOWN, so i guess it says that i should write a lot. so yeah, ive been reading the Silmarillion, havent played that much, laso ive been watching Hunter x Hunter. i thik ill leave it here for now, peace...
+*this should be and emphazises typo* **this is another type of emphazise typo** ***this...is further beyond*** get it?
+My first commit
